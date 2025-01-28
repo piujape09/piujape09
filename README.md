@@ -1,8 +1,6 @@
-Here’s a more creative and advanced GitHub README that incorporates dynamic elements, visual styling, and additional details to showcase your personality and skills:
 
----
 
-# 👨‍💻 **Hello, I'm Pratibhajape!**
+# 👨‍💻 **Hello, I'm Pratibha!**
 
 Welcome to my GitHub! I'm a passionate **Full-Stack Developer** focused on creating dynamic, scalable web applications. I specialize in the **MERN stack**, and I’m constantly evolving my skills with new technologies. I love challenges and believe in continuous learning, adaptability, and creativity in coding.
 
