@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** focused on creat
 
 ## 🌐 **What I Do:**
 
-- **Web Development**: Building interactive web apps using **ReactJS, Node.js**, and **Express.js**  
+- **Web Development**: Building interactive web apps using **ReactJS**, **Spring Boot** 
 - **Microservices**: Architecting and deploying cloud-based microservices using **Spring Boot**  
 - **Databases**: Creating and managing data with **MongoDB**, **MySQL**, and **PostgreSQL**  
 - **DevOps**: Exploring **Docker**, **Kubernetes**, and CI/CD tools to streamline development  
@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** focused on creat
 - ⚡ **ReactJS**, **Next.js**, **Vite**, **TailwindCSS**, **Bootstrap**
 
 ### Backend:
-- 🔥 **NodeJS**, **Express.js**, **Spring Boot**, **Java**  
+- 🔥 **Spring Boot**, **NodeJS**, **Express.js**, **Java**  
 - 🌐 **Microservices** with **Spring Cloud** and **REST APIs**
 
 ### Databases:
@@ -58,7 +58,7 @@ I’m always pushing the boundaries of what I can achieve and staying ahead of t
 ## 💬 **Let's Connect!**
 
 - 📧 **Email**: [Your Email]  
-- 💼 **LinkedIn**: [Pratibhajape](https://linkedin.com/in/Pratibhajape)  
+- 💼 **LinkedIn**: [www.linkedin.com/in/pratibha-jape-80182b245)  
 - 🐦 **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
 - 🌐 **Portfolio**: [Your Portfolio](https://yourportfolio.com)
 
